@@ -22,3 +22,12 @@ To get started with Django, follow these installation steps:
 1. **Check your Python version:**
    ```bash
    python --version
+2. **Create a Virtual Environment:**
+   ```bash
+   python -m venv myenv
+3.**Install Django:**
+  ```bash
+   pip install Django
+4.. **Verify the Installation:**
+```bash
+   django-admin --version
