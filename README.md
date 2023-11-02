@@ -7,12 +7,15 @@
 - Gain practical experience on various concepts
 - Build a mini project
 
-## Introduction
+## Goals
 
-The primary goal of this project is to help you learn the basics of Django,-apply what you've learned- and gain practical experience on various concepts. By the end of this journey, you'll have the opportunity to build a mini project using Django.
+-The primary goal of this project is to  learn the basics of Django
+-Apply what you've learned-
+-And gain practical experience on various concepts.
 
 
-##steps to install Django:
+
+##Steps to install Django:
 -python --version
 -python -m venv myenv
 -pip install Django
