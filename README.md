@@ -7,6 +7,11 @@
 - Gain practical experience on various concepts
 - Build a mini project
 
+##Steps to install Django:
+-python --version
+-python -m venv myenv
+-pip install Django
+-django-admin --version
 ## Goals
 
 -The primary goal of this project is to  learn the basics of Django
@@ -15,10 +20,6 @@
 
 
 
-##Steps to install Django:
--python --version
--python -m venv myenv
--pip install Django
--django-admin --version
+
 
 
