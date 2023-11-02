@@ -14,11 +14,11 @@
 -And gain practical experience on various concepts.
 
 
-##Steps to install Django
--python --version
--python -m venv myenv
--pip install Django
--django-admin --version
+###Steps to install Django
+--python --version
+--python -m venv myenv
+--pip install Django
+--django-admin --version
 
 
 
