@@ -29,5 +29,5 @@ To get started with Django, follow these installation steps:
   ```bash
    pip install Django
 4. **Verify the Installation:**
-```bash
+  ```bash
    django-admin --version
