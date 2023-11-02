@@ -11,7 +11,7 @@
 
 The primary goal of this project is to:
 
-- **Complete some basics exercises on syntax**
+- **Complete some basic exercises on syntax**
 - **Solve problems using the various concepts**
 - **Gain practical knowledge on building the project.**
 
