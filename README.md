@@ -11,9 +11,9 @@
 
 The primary goal of this project is to:
 
-- **Learn the basics of Django**
-- **Apply what you've learned**
-- **Gain practical experience on various concepts.**
+- **Complete some basics exercises on syntax**
+- **Solve problems using the various concepts**
+- **Gain practical knowledge on building the project.**
 
 ## Steps to Install Django
 
